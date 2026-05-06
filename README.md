@@ -22,7 +22,7 @@
 
 * Building **high-performance backend systems** and **robotics solutions**
 * Focused on **efficiency, low-level control, and clean architecture**
-* Experience with **Minecraft server development (Paper / Fabric)**
+* Experience with **robotics and real-life applications**
 * Interested in **networking, distributed systems, and embedded tech**
 
 ---
@@ -31,7 +31,7 @@
 
 ```text
 Languages: Java, Kotlin, C++, C#, C, Python
-Backend:   PaperMC, Fabric, REST APIs  
+Backend:   Paper, Fabric, REST APIs  
 Tools:     Docker, Git, Gradle, Maven
 Other:     Networking, Robotics, Embedded Systems
 ```
