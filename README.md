@@ -1,4 +1,4 @@
-<h1 align="center">kwlew</h1>
+<h1 align="center">Kaleo</h1>
 <p align="center">
   Backend Developer • Robotics • Systems Engineering
 </p>
