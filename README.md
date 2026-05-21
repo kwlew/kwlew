@@ -30,9 +30,9 @@
 ### 🧰 Tech Stack
 
 ```text
-Languages: Java, Kotlin, C++, C#, C, Python
-Backend:   Paper, Fabric, REST APIs  
-Tools:     Docker, Git, Gradle, Maven
+Languages: Java, JavaScript, Kotlin, C++, C#, C, Python, Jupyter Notebook
+Backend:   Spring, Paper, API,   
+Tools:     Docker, Git, Gradle, Maven, Linux
 Other:     Networking, Robotics, Embedded Systems
 ```
 
