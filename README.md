@@ -12,8 +12,8 @@
 ### 🏆 Achievements
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RoboCup%202026-South%20Korea-blue?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/LARC%20Champion-Gold%20Medal-yellow?style=for-the-badge&logo=medal&logoColor=white" />
+  <img src="https://img.shields.io/badge/RoboCup_2026-South_Korea-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LARC-Gold_Medal-F59E0B?style=for-the-badge" />
 </p>
 
 ---
