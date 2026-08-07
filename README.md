@@ -24,6 +24,9 @@
 - 🤖 Hands-on **robotics** experience through RoboCup and LARC competitions
 - 🌐 Digging into **networking, distributed systems, and embedded tech**
 - 📡 Currently exploring **OpenGL** in C++ and **Lua with LÖVE2D**
+- 🧑‍💻 Comfortable with **Node.js** and **Cloudflare Workers** for backend/serverless work
+- 🏅 Active in **competitive programming**
+- 🔍 Always looking to **improve and refine** anything that can be improved
 
 ## 🏆 Achievements
 
@@ -58,6 +61,13 @@
   <img alt="LÖVE2D" src="https://img.shields.io/badge/LÖVE2D-E64998?style=flat-square&logo=love2d&logoColor=white" />
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
   <img alt="LWJGL" src="https://img.shields.io/badge/LWJGL-1D1D1D?style=flat-square" />
+</p>
+
+**Backend & Cloud**
+
+<p align="left">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" />
 </p>
 
 **Embedded & Systems**
