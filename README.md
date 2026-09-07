@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  Programmer @ ByteVolta Team @ Farias Brito
+</p>
+
+<p align="center">
   <a href="https://kwlew.dev"><img alt="Website" src="https://img.shields.io/badge/Website-kwlew.dev-111827?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://github.com/kwlew"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-kwlew-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/kwlew"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-kwlew-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
