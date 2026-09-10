@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kaleo 👋</h1>
 
 <p align="center">
-  Backend Developer • Robotics Programmer • Systems Engineering
+  Back-end Developer • Robotics Programmer • Systems Engineering
 </p>
 
 <p align="center">
