@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Programmer @ ByteVolta Team @ Farias Brito
+  Software @ ByteVolta Team @ Farias Brito
 </p>
 
 <p align="center">
@@ -29,7 +29,14 @@
 - 🌐 Digging into **networking, distributed systems, and embedded tech**
 - 📡 Currently exploring **OpenGL** in C++, **Full-Stack Projects** and **Lua with LÖVE2D**
 - 🧑‍💻 Comfortable with **Node.js** and **Cloudflare Workers** for backend/serverless work
-- 🏅 Active in **competitive programming*
+- 🏅 Active in **competitive programming**
+
+## 🔧 Current projects
+- ByteVolta @ FB (An autonomous robot for **RoboCup**)
+- kMoney (Economy plugin for **Minecraft** made in **Java**)
+- Pyper (A **Java** framework for coding Paper API scripts in **Minecraft** in **Python**)
+- Starsown (An online survival-rpg game made with **LÖVE2D**)
+- Raylike (A rogue-like game inspired on 20 minutes till dawn made in raylib)
 
 ## 🏆 Achievements
 
